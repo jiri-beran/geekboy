@@ -21,7 +21,7 @@ As its original source, GeekBoy is also a [variable font](https://web.dev/variab
      url('GeekBoy.woff2') format('woff2 supports variations'),
      url('GeekBoy.woff2') format('woff2-variations');
    font-weight: 200 900;
-   font-stretch: 75% 125%;
+   font-stretch: 80% 120%;
  }
  html {
    font-family: 'GeekBoy';
