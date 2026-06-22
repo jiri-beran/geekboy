@@ -1,0 +1,25 @@
+FONTLOG for GeekBoy fonts.
+
+GeekBoy fonts are based on Hubot Sans project.
+
+Original source:
+https://github.com/github/hubot-sans
+
+Changes:
+
+- Updated font metadata (family name, authorship, vendor ID, version, description, instance preview text, copyright and related naming fields)
+- Restructured stylistic sets (swapping glyph assignments between ss01–ss03 and default glyph set)
+- Renamed ss01 to include expanded purpose (“Squared dots” and alternate forms of a, y, Q)
+- Added dotted zero glyph and exposed slashed zero via OpenType feature (zero)
+- Introduced empty zero as stylistic set (ss05)
+- Extended zero variants to tabular figures (tnum)
+- Refined O/o glyph design in GeekBoy Display to match the brand logotype
+- Corrected diacritical marks shapes and positioning for Slovak/Czech characters (notably ď, ľ, Ř, ř, Ď) including kerning refinements for relevant combinations
+- Minor refinements to macron weight and positioning
+- Replaced .notdef glyph (previously GitHub logo) with a standard placeholder
+- Replaced Apple glyph with correct Apple logo representation
+- Added contextual alternates for improved positioning of hyphens and en-dashes between numerals (e.g. date and range formatting such as 2021–2026)
+
+Modified by:
+Jiří Chlebus and Jiří Beran (Sudetype)
+2026
