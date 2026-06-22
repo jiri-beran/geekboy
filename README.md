@@ -34,17 +34,17 @@ As its original source, GeekBoy is also a [variable font](https://web.dev/variab
  <link rel="preload" href="GeekBoy.woff2" as="font" type="font/woff2" crossorigin>
  ```
 
-## Styles
+## GeekBoy Styles
 | Style Name | Italic Name | Weight | Width |
 | --- | --- | --- | --- |
-| ExtraLight Narrow | ExtraLight Narrow Italic | 200 | 75 |
-| Light Narrow | Light Narrow Italic | 300 | 75 |
-| Regular Narrow | Regular Narrow Italic | 400 | 75 |
-| Medium Narrow | Medium Narrow Italic | 500 | 75 |
-| SemiBold Narrow | SemiBold Narrow Italic | 600 | 75 |
-| Bold Narrow | Bold Narrow Italic | 700 | 75 |
-| ExtraBold Narrow | ExtraBold Narrow Italic | 800 | 75 |
-| Black Narrow | Black Narrow Italic | 900 | 75 |
+| ExtraLight Condensed | ExtraLight Condensed Italic | 200 | 80 |
+| Light Condensed | Light Condensed Italic | 300 | 80 |
+| Regular Condensed | Regular Condensed Italic | 400 | 80 |
+| Medium Condensed | Medium Condensed Italic | 500 | 80 |
+| SemiBold Condensed | SemiBold Condensed Italic | 600 | 80 |
+| Bold Condensed | Bold Condensed Italic | 700 | 80 |
+| ExtraBold Condensed | ExtraBold Condensed Italic | 800 | 80 |
+| Black Condensed | Black Condensed Italic | 900 | 80 |
 | ExtraLight | ExtraLight Italic | 200 | 100 |
 | Light | Light Italic | 300 | 100 |
 | Regular | Regular Italic | 400 | 100 |
@@ -53,14 +53,19 @@ As its original source, GeekBoy is also a [variable font](https://web.dev/variab
 | Bold | Bold Italic | 700 | 100 |
 | ExtraBold | ExtraBold Italic | 800 | 100 |
 | Black | Black Italic | 900 | 100 |
-| ExtraLight Wide | ExtraLight Wide Italic | 200 | 125 |
-| Light Wide | Light Wide Italic | 300 | 125 |
-| Regular Wide | Regular Wide Italic | 400 | 125 |
-| Medium Wide | Medium Wide Italic | 500 | 125 |
-| SemiBold Wide | SemiBold Wide Italic | 600 | 125 |
-| Bold Wide | Bold Wide Italic | 700 | 125 |
-| ExtraBold Wide | ExtraBold Wide Italic | 800 | 125 |
-| Black Wide | Black Wide Italic | 900 | 125 |
+| ExtraLight Expanded | ExtraLight Expanded Italic | 200 | 120 |
+| Light Expanded | Light Expanded Italic | 300 | 120 |
+| Regular Expanded | Regular Expanded Italic | 400 | 120 |
+| Medium Expanded | Medium Expanded Italic | 500 | 120 |
+| SemiBold Expanded | SemiBold Expanded Italic | 600 | 120 |
+| Bold Expanded | Bold Expanded Italic | 700 | 120 |
+| ExtraBold Expanded | ExtraBold Expanded Italic | 800 | 120 |
+| Black Expanded | Black Expanded Italic | 900 | 120 |
+
+## GeekBoy Display Styles
+| Style Name | Italic Name | Weight | Width |
+| --- | --- | --- | --- |
+| ExtraBold | ExtraBold Italic | 800 | 100 |
 
 
 ## License
