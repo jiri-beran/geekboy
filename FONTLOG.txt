@@ -5,6 +5,9 @@ GeekBoy fonts are based on Hubot Sans project.
 Original source:
 https://github.com/github/hubot-sans
 
+Changes (v1.002)
+- Widened space and nbspace glyphs
+
 Changes (v1.001)
 - New squarish bullet point shape to match the GeekBoy brand logotype
 - Added ss06 with original round bullet point
