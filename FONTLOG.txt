@@ -5,6 +5,9 @@ GeekBoy fonts are based on Hubot Sans project.
 Original source:
 https://github.com/github/hubot-sans
 
+Changes (v1.003)
+- Small improvements to kerning (combinations with “y”)
+
 Changes (v1.002)
 - Widened space and nbspace glyphs
 
